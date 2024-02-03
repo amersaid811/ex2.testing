@@ -20,7 +20,7 @@ public class App
 		if ((grade>89 ) & (grade<=100))
 			return "A";
 		else {
-			return "ERROR";
+			return "ERROR 404";
 		}
 	}
 }
